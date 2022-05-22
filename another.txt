@@ -1,0 +1,1 @@
+Now added gpg key to git config.
